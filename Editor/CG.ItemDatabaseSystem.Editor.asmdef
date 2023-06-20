@@ -1,0 +1,22 @@
+{
+    "name": "CG.ItemDatabaseSystem.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:69448af7b92c7f342b298e06a37122aa",
+        "GUID:4dd995ad09411cb40a40019504877178",
+        "GUID:84651a3751eca9349aac36a66bba901b",
+        "GUID:5d318b83313d55d4b9d7dd06961242dc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

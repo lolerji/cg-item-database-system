@@ -1,0 +1,16 @@
+{
+  "name": "com.clonegames.itemdatabasesystem",
+  "version": "0.1.0",
+  "displayName": "CG Item Database System",
+  "author": {
+    "name": "Lolerji",
+    "email": "lolerji@hotmail.com",
+    "url": "https://github.com/lolerji"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "dependencies": {
+    "com.clonegames.modulesupport": "0.1.0"
+  }
+}
